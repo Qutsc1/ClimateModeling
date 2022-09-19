@@ -1,2 +1,2 @@
 # ClimateModeling
-# A Jupyter Notebook that takes in .nc files.
+A Jupyter Notebook that takes in .nc files.
